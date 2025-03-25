@@ -1,0 +1,5 @@
+title_of_work: Presidency of the Hellenic Republic
+link_to_work: https://www.presidency.gr/
+revision: https://www.presidency.gr/en/president/
+license_of_the_work: Public Domain
+creator_names: Presidency of the Hellenic Republic

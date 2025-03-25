@@ -1,0 +1,118 @@
+created_by: george-cassar
+version: 3
+domain: Greek Politics
+document_outline: >-
+  Knowledge contribution about the current president in Greece, following the
+  election of 2025
+seed_examples:
+  - context: >-
+      Konstantinos Tasoulas was elected as the President of Greece, assuming
+      office in 2025. His presidency focuses on fostering democratic values,
+      strengthening international relations, and addressing national challenges
+      such as economic growth and social policies.
+    questions_and_answers:
+      - question: Who is the current President of Greece?
+        answer: >-
+          The current President of Greece is Konstantinos Tasoulas, who assumed
+          office in 2025. On February 12, 2025, he was elected President of the
+          Hellenic Republic by the Greek Parliament and assumed office on March
+          13, 2025.
+      - question: What are the main responsibilities of the President of Greece?
+        answer: >-
+          The President of Greece serves as the head of state, representing the
+          nation in international affairs, ensuring the implementation of the
+          Constitution, and overseeing key governmental and diplomatic functions.
+      - question: How is the President of Greece elected?
+        answer: >-
+          The President of Greece is elected by the Hellenic Parliament through a
+          voting process requiring a supermajority in the initial rounds and a
+          simple majority in the later stages.
+
+  - context: >-
+      Tasoulas has had a longstanding career in Greek politics, serving in
+      various governmental roles before assuming the presidency. He has been
+      actively involved in legislative processes and policymaking.
+    questions_and_answers:
+      - question: What political experience does Konstantinos Tasoulas have?
+        answer: >-
+          Konstantinos Tasoulas has held multiple positions in the Greek
+          government, including Minister of Culture (2004-2006), Member of the
+          Hellenic Parliament, and President of the Hellenic Parliament
+          (2019-2023), before becoming the President of Greece.
+      - question: What major policies did Konstantinos Tasoulas support before becoming President?
+        answer: >-
+          Before becoming President, Tasoulas supported policies related to
+          cultural development, parliamentary reform, and legislative efficiency,
+          emphasizing modernization and transparency in government.
+      - question: How has Tasoulas influenced Greek politics?
+        answer: >-
+          As a legislator and parliamentary leader, Tasoulas played a crucial role
+          in shaping Greece's political landscape by advocating for governance
+          improvements, institutional transparency, and international cooperation.
+
+  - context: >-
+      Key initiatives of his presidency include promoting digital transformation
+      in public administration, strengthening Greece’s position in the European
+      Union, and advancing human rights and social equality.
+    questions_and_answers:
+      - question: What are some of the key initiatives of President Konstantinos Tasoulas?
+        answer: >-
+          President Konstantinos Tasoulas focuses on digital transformation in
+          public administration, strengthening Greece’s role in the EU, and
+          advancing human rights and social equality.
+      - question: How is digital transformation being implemented under Tasoulas’s presidency?
+        answer: >-
+          His administration is implementing digital transformation through
+          e-governance initiatives, AI-driven automation, and modernization of
+          public sector services to improve efficiency and accessibility.
+      - question: What actions has Tasoulas taken to strengthen Greece’s EU position?
+        answer: >-
+          He has prioritized diplomatic engagements, trade agreements, and
+          legislative alignments with EU policies to strengthen Greece's
+          influence in European affairs.
+
+  - context: >-
+      Apart from his political career, Tasoulas has been involved in academia
+      and public speaking, contributing to political discourse and governance
+      reforms in Greece.
+    questions_and_answers:
+      - question: Has Konstantinos Tasoulas contributed to academia?
+        answer: >-
+          Yes, Konstantinos Tasoulas has been actively involved in academia and
+          public speaking, particularly in political discourse and governance
+          reforms.
+      - question: What academic contributions has Tasoulas made?
+        answer: >-
+          He has published works on Greek governance, parliamentary law, and
+          political strategy, and has been a guest lecturer at universities and
+          policy forums.
+      - question: How has Tasoulas influenced political discourse in Greece?
+        answer: >-
+          Through public speaking engagements, policy discussions, and
+          collaborations with academic institutions, he has influenced debates on
+          governance, democracy, and legislative reform.
+
+  - context: >-
+      Konstantinos Tasoulas was born in Greece. He pursued higher education in
+      law and political science, providing him with a strong foundation for his
+      later career in governance.
+    questions_and_answers:
+      - question: What is Konstantinos Tasoulas’s educational background?
+        answer: >-
+          Konstantinos Tasoulas studied law and political science, which
+          provided him with a strong foundation for his career in governance.
+      - question: How did Tasoulas’s education influence his political career?
+        answer: >-
+          His legal and political science background helped shape his legislative
+          approach, allowing him to navigate parliamentary procedures and policy
+          development effectively.
+      - question: Did Tasoulas pursue any advanced studies or research?
+        answer: >-
+          While no advanced degrees have been publicly documented, he has engaged
+          in continuous legal and political studies, contributing to his expertise
+          in governance.
+document:
+  repo: https://github.com/george-cassar/taxonomy.git
+  commit: 
+  patterns:
+    -
